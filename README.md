@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/vantaylo/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0212-word-search-ii](https://github.com/vantaylo/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+| [0252-meeting-rooms](https://github.com/vantaylo/Leetcode/tree/main/0252-meeting-rooms/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,4 +27,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/vantaylo/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0252-meeting-rooms](https://github.com/vantaylo/Leetcode/tree/main/0252-meeting-rooms/) | Easy |
 <!---LeetCode Topics End-->
