@@ -50,8 +50,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/vantaylo/Leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/vantaylo/Leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/vantaylo/Leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/vantaylo/Leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 <!---LeetCode Topics End-->
