@@ -16,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/vantaylo/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +107,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/vantaylo/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
