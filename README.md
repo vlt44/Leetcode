@@ -9,6 +9,7 @@
 | [0057-insert-interval](https://github.com/vantaylo/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0212-word-search-ii](https://github.com/vantaylo/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0252-meeting-rooms](https://github.com/vantaylo/Leetcode/tree/main/0252-meeting-rooms/) | Easy |
+| [0253-meeting-rooms-ii](https://github.com/vantaylo/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vantaylo/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## String
@@ -33,6 +34,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/vantaylo/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0252-meeting-rooms](https://github.com/vantaylo/Leetcode/tree/main/0252-meeting-rooms/) | Easy |
+| [0253-meeting-rooms-ii](https://github.com/vantaylo/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vantaylo/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Dynamic Programming
@@ -43,6 +45,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/vantaylo/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vantaylo/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -80,6 +83,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/vantaylo/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -93,4 +97,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/vantaylo/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/vantaylo/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 <!---LeetCode Topics End-->
