@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/vantaylo/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0056-merge-intervals](https://github.com/vantaylo/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/vantaylo/Leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vantaylo/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/vantaylo/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/vantaylo/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0212-word-search-ii](https://github.com/vantaylo/Leetcode/tree/main/0212-word-search-ii/) | Hard |
@@ -68,6 +69,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vantaylo/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
@@ -82,6 +84,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vantaylo/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
@@ -105,6 +108,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vantaylo/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/vantaylo/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -112,6 +116,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vantaylo/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0191-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
