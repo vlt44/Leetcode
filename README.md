@@ -22,6 +22,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/vantaylo/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0091-decode-ways](https://github.com/vantaylo/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/vantaylo/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vantaylo/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
