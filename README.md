@@ -134,6 +134,7 @@
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/vantaylo/Leetcode/tree/main/1836-remove-duplicates-from-an-unsorted-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +230,7 @@
 | [0143-reorder-list](https://github.com/vantaylo/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/vantaylo/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/vantaylo/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/vantaylo/Leetcode/tree/main/1836-remove-duplicates-from-an-unsorted-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
