@@ -24,6 +24,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vantaylo/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vantaylo/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0704-binary-search](https://github.com/vantaylo/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0896-monotonic-array](https://github.com/vantaylo/Leetcode/tree/main/0896-monotonic-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -204,6 +205,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vantaylo/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/vantaylo/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0704-binary-search](https://github.com/vantaylo/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
