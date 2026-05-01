@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/vantaylo/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0056-merge-intervals](https://github.com/vantaylo/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/vantaylo/Leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0063-unique-paths-ii](https://github.com/vantaylo/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vantaylo/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/vantaylo/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/vantaylo/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -57,6 +58,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/vantaylo/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/vantaylo/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/vantaylo/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/vantaylo/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -75,6 +77,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/vantaylo/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0091-decode-ways](https://github.com/vantaylo/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/vantaylo/Leetcode/tree/main/0139-word-break/) | Medium |
