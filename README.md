@@ -42,6 +42,7 @@
 | [0212-word-search-ii](https://github.com/vantaylo/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0269-alien-dictionary](https://github.com/vantaylo/Leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/vantaylo/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/vantaylo/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/vantaylo/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/vantaylo/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/vantaylo/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/vantaylo/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
