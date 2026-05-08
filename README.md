@@ -101,6 +101,7 @@
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vantaylo/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/vantaylo/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -110,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/vantaylo/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -130,6 +132,7 @@
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vantaylo/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/vantaylo/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -139,6 +142,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0207-course-schedule](https://github.com/vantaylo/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0261-graph-valid-tree](https://github.com/vantaylo/Leetcode/tree/main/0261-graph-valid-tree/) | Medium |
