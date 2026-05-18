@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/vantaylo/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/vantaylo/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/vantaylo/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vantaylo/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vantaylo/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/vantaylo/Leetcode/tree/main/0039-combination-sum/) | Medium |
@@ -218,6 +219,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/vantaylo/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/vantaylo/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/vantaylo/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/vantaylo/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vantaylo/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/vantaylo/Leetcode/tree/main/0143-reorder-list/) | Medium |
