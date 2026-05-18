@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/vantaylo/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/vantaylo/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/vantaylo/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/vantaylo/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vantaylo/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/vantaylo/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/vantaylo/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -70,6 +71,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/vantaylo/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/vantaylo/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/vantaylo/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0252-meeting-rooms](https://github.com/vantaylo/Leetcode/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/vantaylo/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -212,6 +214,7 @@
 | [0011-container-with-most-water](https://github.com/vantaylo/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/vantaylo/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/vantaylo/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/vantaylo/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/vantaylo/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vantaylo/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/vantaylo/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
