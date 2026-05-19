@@ -256,6 +256,7 @@
 | [0013-roman-to-integer](https://github.com/vantaylo/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vantaylo/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [2235-add-two-integers](https://github.com/vantaylo/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
