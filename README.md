@@ -31,6 +31,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vantaylo/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vantaylo/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0605-can-place-flowers](https://github.com/vantaylo/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/vantaylo/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/vantaylo/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0896-monotonic-array](https://github.com/vantaylo/Leetcode/tree/main/0896-monotonic-array/) | Easy |
@@ -105,6 +106,7 @@
 | [0011-container-with-most-water](https://github.com/vantaylo/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/vantaylo/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vantaylo/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0605-can-place-flowers](https://github.com/vantaylo/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/vantaylo/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
