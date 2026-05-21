@@ -124,6 +124,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vantaylo/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vantaylo/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,4 +342,8 @@
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vantaylo/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
