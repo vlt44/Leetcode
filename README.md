@@ -34,6 +34,7 @@
 | [0605-can-place-flowers](https://github.com/vantaylo/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/vantaylo/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/vantaylo/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0860-lemonade-change](https://github.com/vantaylo/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0896-monotonic-array](https://github.com/vantaylo/Leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vantaylo/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vantaylo/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -111,6 +112,7 @@
 | [0435-non-overlapping-intervals](https://github.com/vantaylo/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0605-can-place-flowers](https://github.com/vantaylo/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/vantaylo/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0860-lemonade-change](https://github.com/vantaylo/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
