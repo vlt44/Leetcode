@@ -50,6 +50,7 @@
 | [0212-word-search-ii](https://github.com/vantaylo/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0269-alien-dictionary](https://github.com/vantaylo/Leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/vantaylo/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/vantaylo/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/vantaylo/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -267,6 +268,7 @@
 | [0013-roman-to-integer](https://github.com/vantaylo/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vantaylo/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vantaylo/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2235-add-two-integers](https://github.com/vantaylo/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 ## Binary Search
@@ -334,5 +336,6 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vantaylo/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
