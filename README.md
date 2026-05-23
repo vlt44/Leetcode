@@ -23,6 +23,7 @@
 | [0169-majority-element](https://github.com/vantaylo/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0212-word-search-ii](https://github.com/vantaylo/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/vantaylo/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/vantaylo/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0252-meeting-rooms](https://github.com/vantaylo/Leetcode/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/vantaylo/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -64,6 +65,7 @@
 | [0039-combination-sum](https://github.com/vantaylo/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0113-path-sum-ii](https://github.com/vantaylo/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/vantaylo/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+| [0216-combination-sum-iii](https://github.com/vantaylo/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/vantaylo/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
