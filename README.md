@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/vantaylo/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/vantaylo/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/vantaylo/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/vantaylo/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/vantaylo/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/vantaylo/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/vantaylo/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -66,6 +67,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/vantaylo/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/vantaylo/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/vantaylo/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/vantaylo/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/vantaylo/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/vantaylo/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
