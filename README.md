@@ -68,6 +68,7 @@
 | [0039-combination-sum](https://github.com/vantaylo/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/vantaylo/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/vantaylo/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/vantaylo/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/vantaylo/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/vantaylo/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/vantaylo/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
