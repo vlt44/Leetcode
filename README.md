@@ -54,6 +54,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/vantaylo/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vantaylo/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/vantaylo/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+| [0257-binary-tree-paths](https://github.com/vantaylo/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0269-alien-dictionary](https://github.com/vantaylo/Leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/vantaylo/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -74,6 +75,7 @@
 | [0113-path-sum-ii](https://github.com/vantaylo/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/vantaylo/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/vantaylo/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vantaylo/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/vantaylo/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -134,6 +136,7 @@
 | [0113-path-sum-ii](https://github.com/vantaylo/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vantaylo/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vantaylo/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
@@ -147,6 +150,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/vantaylo/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0207-course-schedule](https://github.com/vantaylo/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vantaylo/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vantaylo/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0261-graph-valid-tree](https://github.com/vantaylo/Leetcode/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/vantaylo/Leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/vantaylo/Leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
@@ -166,6 +170,7 @@
 | [0113-path-sum-ii](https://github.com/vantaylo/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vantaylo/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vantaylo/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
