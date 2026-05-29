@@ -129,6 +129,7 @@
 | [0605-can-place-flowers](https://github.com/vantaylo/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/vantaylo/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/vantaylo/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/vantaylo/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@
 | [0733-flood-fill](https://github.com/vantaylo/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/vantaylo/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/vantaylo/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/vantaylo/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -185,6 +188,7 @@
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/vantaylo/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +245,7 @@
 | [0190-reverse-bits](https://github.com/vantaylo/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,4 +385,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
