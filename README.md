@@ -147,6 +147,7 @@
 | [0257-binary-tree-paths](https://github.com/vantaylo/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/vantaylo/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/vantaylo/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
@@ -171,6 +172,7 @@
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0733-flood-fill](https://github.com/vantaylo/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/vantaylo/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/vantaylo/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/vantaylo/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/vantaylo/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -189,6 +191,7 @@
 | [0257-binary-tree-paths](https://github.com/vantaylo/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/vantaylo/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/vantaylo/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
@@ -388,5 +391,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/vantaylo/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
