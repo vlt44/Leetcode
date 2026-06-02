@@ -152,6 +152,7 @@
 | [0938-range-sum-of-bst](https://github.com/vantaylo/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/vantaylo/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1469-find-all-the-lonely-nodes](https://github.com/vantaylo/Leetcode/tree/main/1469-find-all-the-lonely-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@
 | [0938-range-sum-of-bst](https://github.com/vantaylo/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/vantaylo/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1469-find-all-the-lonely-nodes](https://github.com/vantaylo/Leetcode/tree/main/1469-find-all-the-lonely-nodes/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/vantaylo/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -202,6 +204,7 @@
 | [0938-range-sum-of-bst](https://github.com/vantaylo/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/vantaylo/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1469-find-all-the-lonely-nodes](https://github.com/vantaylo/Leetcode/tree/main/1469-find-all-the-lonely-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -220,6 +223,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/vantaylo/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vantaylo/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/vantaylo/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1469-find-all-the-lonely-nodes](https://github.com/vantaylo/Leetcode/tree/main/1469-find-all-the-lonely-nodes/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/vantaylo/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
