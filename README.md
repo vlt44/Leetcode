@@ -145,6 +145,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/vantaylo/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vantaylo/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/vantaylo/Leetcode/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -170,6 +171,7 @@
 | [0257-binary-tree-paths](https://github.com/vantaylo/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0261-graph-valid-tree](https://github.com/vantaylo/Leetcode/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/vantaylo/Leetcode/tree/main/0269-alien-dictionary/) | Hard |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/vantaylo/Leetcode/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/vantaylo/Leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vantaylo/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -197,6 +199,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/vantaylo/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vantaylo/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/vantaylo/Leetcode/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
