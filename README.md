@@ -325,6 +325,7 @@
 | [0090-subsets-ii](https://github.com/vantaylo/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/vantaylo/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/vantaylo/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/vantaylo/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vantaylo/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -334,6 +335,7 @@
 | [0002-add-two-numbers](https://github.com/vantaylo/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/vantaylo/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/vantaylo/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0231-power-of-two](https://github.com/vantaylo/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vantaylo/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -388,6 +390,7 @@
 | [0002-add-two-numbers](https://github.com/vantaylo/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/vantaylo/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/vantaylo/Leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0231-power-of-two](https://github.com/vantaylo/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vantaylo/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
