@@ -44,6 +44,7 @@
 | [0733-flood-fill](https://github.com/vantaylo/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0860-lemonade-change](https://github.com/vantaylo/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0896-monotonic-array](https://github.com/vantaylo/Leetcode/tree/main/0896-monotonic-array/) | Easy |
+| [1046-last-stone-weight](https://github.com/vantaylo/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vantaylo/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vantaylo/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vantaylo/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -284,6 +285,7 @@
 | [0253-meeting-rooms-ii](https://github.com/vantaylo/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/vantaylo/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1046-last-stone-weight](https://github.com/vantaylo/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
