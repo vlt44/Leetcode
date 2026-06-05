@@ -66,6 +66,7 @@
 | [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/vantaylo/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/vantaylo/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/vantaylo/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vantaylo/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vantaylo/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -422,6 +423,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/vantaylo/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vantaylo/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
