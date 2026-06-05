@@ -47,6 +47,7 @@
 | [1046-last-stone-weight](https://github.com/vantaylo/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vantaylo/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vantaylo/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vantaylo/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## String
@@ -117,6 +118,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vantaylo/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +302,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/vantaylo/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,6 +346,7 @@
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/vantaylo/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vantaylo/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
