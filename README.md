@@ -57,6 +57,7 @@
 | [0008-string-to-integer-atoi](https://github.com/vantaylo/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/vantaylo/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vantaylo/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0058-length-of-last-word](https://github.com/vantaylo/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0091-decode-ways](https://github.com/vantaylo/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/vantaylo/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/vantaylo/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
