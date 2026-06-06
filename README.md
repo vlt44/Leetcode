@@ -22,6 +22,7 @@
 | [0088-merge-sorted-array](https://github.com/vantaylo/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/vantaylo/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vantaylo/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0118-pascals-triangle](https://github.com/vantaylo/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0139-word-break](https://github.com/vantaylo/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/vantaylo/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vantaylo/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -127,6 +128,7 @@
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/vantaylo/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0091-decode-ways](https://github.com/vantaylo/Leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0118-pascals-triangle](https://github.com/vantaylo/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/vantaylo/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/vantaylo/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
