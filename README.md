@@ -348,6 +348,7 @@
 | [0231-power-of-two](https://github.com/vantaylo/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/vantaylo/Leetcode/tree/main/0338-counting-bits/) | Easy |
+| [0342-power-of-four](https://github.com/vantaylo/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vantaylo/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Math
@@ -359,6 +360,7 @@
 | [0231-power-of-two](https://github.com/vantaylo/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/vantaylo/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/vantaylo/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vantaylo/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vantaylo/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -415,6 +417,7 @@
 | [0231-power-of-two](https://github.com/vantaylo/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vantaylo/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/vantaylo/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/vantaylo/Leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
