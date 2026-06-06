@@ -358,6 +358,7 @@
 | [0013-roman-to-integer](https://github.com/vantaylo/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0231-power-of-two](https://github.com/vantaylo/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/vantaylo/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vantaylo/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vantaylo/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -413,6 +414,7 @@
 | [0143-reorder-list](https://github.com/vantaylo/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0231-power-of-two](https://github.com/vantaylo/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vantaylo/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/vantaylo/Leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
