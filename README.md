@@ -61,6 +61,7 @@
 | [0013-roman-to-integer](https://github.com/vantaylo/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vantaylo/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0058-length-of-last-word](https://github.com/vantaylo/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0071-simplify-path](https://github.com/vantaylo/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0091-decode-ways](https://github.com/vantaylo/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/vantaylo/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/vantaylo/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -417,6 +418,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/vantaylo/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0143-reorder-list](https://github.com/vantaylo/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/vantaylo/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vantaylo/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
