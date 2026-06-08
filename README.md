@@ -253,6 +253,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/vantaylo/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vantaylo/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vantaylo/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1197-minimum-knight-moves](https://github.com/vantaylo/Leetcode/tree/main/1197-minimum-knight-moves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/vantaylo/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1469-find-all-the-lonely-nodes](https://github.com/vantaylo/Leetcode/tree/main/1469-find-all-the-lonely-nodes/) | Easy |
