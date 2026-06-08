@@ -41,6 +41,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vantaylo/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vantaylo/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0498-diagonal-traverse](https://github.com/vantaylo/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0542-01-matrix](https://github.com/vantaylo/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0605-can-place-flowers](https://github.com/vantaylo/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/vantaylo/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -110,6 +111,7 @@
 | [0212-word-search-ii](https://github.com/vantaylo/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0286-walls-and-gates](https://github.com/vantaylo/Leetcode/tree/main/0286-walls-and-gates/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vantaylo/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0498-diagonal-traverse](https://github.com/vantaylo/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0542-01-matrix](https://github.com/vantaylo/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/vantaylo/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vantaylo/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -456,6 +458,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0498-diagonal-traverse](https://github.com/vantaylo/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/vantaylo/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vantaylo/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Search Tree
