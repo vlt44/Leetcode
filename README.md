@@ -286,6 +286,7 @@
 | [0169-majority-element](https://github.com/vantaylo/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0359-logger-rate-limiter](https://github.com/vantaylo/Leetcode/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/vantaylo/Leetcode/tree/main/1836-remove-duplicates-from-an-unsorted-linked-list/) | Medium |
@@ -437,10 +438,12 @@
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vantaylo/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/vantaylo/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0359-logger-rate-limiter](https://github.com/vantaylo/Leetcode/tree/main/0359-logger-rate-limiter/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/vantaylo/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0359-logger-rate-limiter](https://github.com/vantaylo/Leetcode/tree/main/0359-logger-rate-limiter/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
