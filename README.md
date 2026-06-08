@@ -36,6 +36,7 @@
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0269-alien-dictionary](https://github.com/vantaylo/Leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0283-move-zeroes](https://github.com/vantaylo/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0286-walls-and-gates](https://github.com/vantaylo/Leetcode/tree/main/0286-walls-and-gates/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vantaylo/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vantaylo/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -107,6 +108,7 @@
 | [0037-sudoku-solver](https://github.com/vantaylo/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0063-unique-paths-ii](https://github.com/vantaylo/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/vantaylo/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+| [0286-walls-and-gates](https://github.com/vantaylo/Leetcode/tree/main/0286-walls-and-gates/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vantaylo/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0542-01-matrix](https://github.com/vantaylo/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/vantaylo/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -245,6 +247,7 @@
 | [0207-course-schedule](https://github.com/vantaylo/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0261-graph-valid-tree](https://github.com/vantaylo/Leetcode/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/vantaylo/Leetcode/tree/main/0269-alien-dictionary/) | Hard |
+| [0286-walls-and-gates](https://github.com/vantaylo/Leetcode/tree/main/0286-walls-and-gates/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/vantaylo/Leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vantaylo/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0542-01-matrix](https://github.com/vantaylo/Leetcode/tree/main/0542-01-matrix/) | Medium |
