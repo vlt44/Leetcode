@@ -173,6 +173,7 @@
 | [0257-binary-tree-paths](https://github.com/vantaylo/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/vantaylo/Leetcode/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/vantaylo/Leetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -252,6 +253,7 @@
 | [0286-walls-and-gates](https://github.com/vantaylo/Leetcode/tree/main/0286-walls-and-gates/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/vantaylo/Leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vantaylo/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/vantaylo/Leetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0542-01-matrix](https://github.com/vantaylo/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/vantaylo/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/vantaylo/Leetcode/tree/main/0733-flood-fill/) | Easy |
