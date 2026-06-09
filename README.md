@@ -126,6 +126,7 @@
 | [0253-meeting-rooms-ii](https://github.com/vantaylo/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/vantaylo/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/vantaylo/Leetcode/tree/main/0314-binary-tree-vertical-order-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vantaylo/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
@@ -172,6 +173,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vantaylo/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/vantaylo/Leetcode/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/vantaylo/Leetcode/tree/main/0314-binary-tree-vertical-order-traversal/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/vantaylo/Leetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -200,6 +202,7 @@
 | [0261-graph-valid-tree](https://github.com/vantaylo/Leetcode/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/vantaylo/Leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/vantaylo/Leetcode/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/vantaylo/Leetcode/tree/main/0314-binary-tree-vertical-order-traversal/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/vantaylo/Leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vantaylo/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -230,6 +233,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vantaylo/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/vantaylo/Leetcode/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/vantaylo/Leetcode/tree/main/0314-binary-tree-vertical-order-traversal/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -251,6 +255,7 @@
 | [0261-graph-valid-tree](https://github.com/vantaylo/Leetcode/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/vantaylo/Leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0286-walls-and-gates](https://github.com/vantaylo/Leetcode/tree/main/0286-walls-and-gates/) | Medium |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/vantaylo/Leetcode/tree/main/0314-binary-tree-vertical-order-traversal/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/vantaylo/Leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vantaylo/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/vantaylo/Leetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
@@ -293,6 +298,7 @@
 | [0139-word-break](https://github.com/vantaylo/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/vantaylo/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/vantaylo/Leetcode/tree/main/0314-binary-tree-vertical-order-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/vantaylo/Leetcode/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
