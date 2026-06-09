@@ -51,6 +51,7 @@
 | [1046-last-stone-weight](https://github.com/vantaylo/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vantaylo/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/vantaylo/Leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vantaylo/Leetcode/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vantaylo/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -157,6 +158,7 @@
 | [0605-can-place-flowers](https://github.com/vantaylo/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/vantaylo/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/vantaylo/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/vantaylo/Leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/vantaylo/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -322,6 +324,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1046-last-stone-weight](https://github.com/vantaylo/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/vantaylo/Leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
