@@ -71,6 +71,7 @@
 | [0058-length-of-last-word](https://github.com/vantaylo/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/vantaylo/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0091-decode-ways](https://github.com/vantaylo/Leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0127-word-ladder](https://github.com/vantaylo/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/vantaylo/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/vantaylo/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vantaylo/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -268,6 +269,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vantaylo/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/vantaylo/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/vantaylo/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/vantaylo/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0261-graph-valid-tree](https://github.com/vantaylo/Leetcode/tree/main/0261-graph-valid-tree/) | Medium |
@@ -314,6 +316,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vantaylo/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/vantaylo/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vantaylo/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/vantaylo/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/vantaylo/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/vantaylo/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
