@@ -64,6 +64,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vantaylo/Leetcode/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vantaylo/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/vantaylo/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vantaylo/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vantaylo/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## String
