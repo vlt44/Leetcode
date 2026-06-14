@@ -416,6 +416,7 @@
 | [0002-add-two-numbers](https://github.com/vantaylo/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/vantaylo/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/vantaylo/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0069-sqrtx](https://github.com/vantaylo/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/vantaylo/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/vantaylo/Leetcode/tree/main/0326-power-of-three/) | Easy |
@@ -431,6 +432,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/vantaylo/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vantaylo/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vantaylo/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/vantaylo/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vantaylo/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/vantaylo/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
