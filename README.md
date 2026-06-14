@@ -93,6 +93,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/vantaylo/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vantaylo/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1328-break-a-palindrome](https://github.com/vantaylo/Leetcode/tree/main/1328-break-a-palindrome/) | Medium |
+| [1370-increasing-decreasing-string](https://github.com/vantaylo/Leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vantaylo/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -333,6 +334,7 @@
 | [0752-open-the-lock](https://github.com/vantaylo/Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0929-unique-email-addresses](https://github.com/vantaylo/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
+| [1370-increasing-decreasing-string](https://github.com/vantaylo/Leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/vantaylo/Leetcode/tree/main/1836-remove-duplicates-from-an-unsorted-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -364,6 +366,7 @@
 | [0169-majority-element](https://github.com/vantaylo/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1370-increasing-decreasing-string](https://github.com/vantaylo/Leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
