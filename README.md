@@ -89,6 +89,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/vantaylo/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0551-student-attendance-record-i](https://github.com/vantaylo/Leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/vantaylo/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/vantaylo/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/vantaylo/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
