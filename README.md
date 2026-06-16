@@ -438,6 +438,7 @@
 | [0069-sqrtx](https://github.com/vantaylo/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/vantaylo/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/vantaylo/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/vantaylo/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/vantaylo/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vantaylo/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -543,4 +544,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/vantaylo/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/vantaylo/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/vantaylo/Leetcode/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
