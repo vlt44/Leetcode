@@ -101,6 +101,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vantaylo/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1328-break-a-palindrome](https://github.com/vantaylo/Leetcode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/vantaylo/Leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/vantaylo/Leetcode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vantaylo/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -414,6 +415,7 @@
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/vantaylo/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vantaylo/Leetcode/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/vantaylo/Leetcode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
