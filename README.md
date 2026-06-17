@@ -449,6 +449,7 @@
 | [0371-sum-of-two-integers](https://github.com/vantaylo/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vantaylo/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/vantaylo/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vantaylo/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2235-add-two-integers](https://github.com/vantaylo/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 ## Binary Search
