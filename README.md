@@ -54,6 +54,7 @@
 | [0733-flood-fill](https://github.com/vantaylo/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/vantaylo/Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0860-lemonade-change](https://github.com/vantaylo/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [0888-fair-candy-swap](https://github.com/vantaylo/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0896-monotonic-array](https://github.com/vantaylo/Leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0929-unique-email-addresses](https://github.com/vantaylo/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1046-last-stone-weight](https://github.com/vantaylo/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
@@ -158,6 +159,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vantaylo/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vantaylo/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0888-fair-candy-swap](https://github.com/vantaylo/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/vantaylo/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -347,6 +349,7 @@
 | [0359-logger-rate-limiter](https://github.com/vantaylo/Leetcode/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0752-open-the-lock](https://github.com/vantaylo/Leetcode/tree/main/0752-open-the-lock/) | Medium |
+| [0888-fair-candy-swap](https://github.com/vantaylo/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0929-unique-email-addresses](https://github.com/vantaylo/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/vantaylo/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
@@ -469,6 +472,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/vantaylo/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vantaylo/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/vantaylo/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0888-fair-candy-swap](https://github.com/vantaylo/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
