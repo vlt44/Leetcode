@@ -104,6 +104,7 @@
 | [1370-increasing-decreasing-string](https://github.com/vantaylo/Leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/vantaylo/Leetcode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vantaylo/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vantaylo/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +352,7 @@
 | [1128-number-of-equivalent-domino-pairs](https://github.com/vantaylo/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/vantaylo/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/vantaylo/Leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vantaylo/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/vantaylo/Leetcode/tree/main/1836-remove-duplicates-from-an-unsorted-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -384,6 +386,7 @@
 | [1128-number-of-equivalent-domino-pairs](https://github.com/vantaylo/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/vantaylo/Leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vantaylo/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
