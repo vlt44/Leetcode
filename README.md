@@ -50,6 +50,7 @@
 | [0498-diagonal-traverse](https://github.com/vantaylo/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0542-01-matrix](https://github.com/vantaylo/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0605-can-place-flowers](https://github.com/vantaylo/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0645-set-mismatch](https://github.com/vantaylo/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/vantaylo/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/vantaylo/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/vantaylo/Leetcode/tree/main/0752-open-the-lock/) | Medium |
@@ -162,6 +163,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vantaylo/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vantaylo/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0645-set-mismatch](https://github.com/vantaylo/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0888-fair-candy-swap](https://github.com/vantaylo/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/vantaylo/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -351,6 +353,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/vantaylo/Leetcode/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0645-set-mismatch](https://github.com/vantaylo/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0752-open-the-lock](https://github.com/vantaylo/Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0819-most-common-word](https://github.com/vantaylo/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0888-fair-candy-swap](https://github.com/vantaylo/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
@@ -444,6 +447,7 @@
 | [0338-counting-bits](https://github.com/vantaylo/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/vantaylo/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vantaylo/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0645-set-mismatch](https://github.com/vantaylo/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
