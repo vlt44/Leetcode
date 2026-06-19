@@ -104,6 +104,7 @@
 | [1328-break-a-palindrome](https://github.com/vantaylo/Leetcode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/vantaylo/Leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/vantaylo/Leetcode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/vantaylo/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vantaylo/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vantaylo/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 ## Backtracking
@@ -510,6 +511,7 @@
 | [0234-palindrome-linked-list](https://github.com/vantaylo/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vantaylo/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vantaylo/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1544-make-the-string-great](https://github.com/vantaylo/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
