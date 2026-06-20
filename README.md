@@ -103,6 +103,7 @@
 | [0929-unique-email-addresses](https://github.com/vantaylo/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vantaylo/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vantaylo/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/vantaylo/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vantaylo/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1328-break-a-palindrome](https://github.com/vantaylo/Leetcode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/vantaylo/Leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
@@ -360,6 +361,7 @@
 | [0929-unique-email-addresses](https://github.com/vantaylo/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/vantaylo/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/vantaylo/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/vantaylo/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/vantaylo/Leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vantaylo/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
@@ -395,6 +397,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0819-most-common-word](https://github.com/vantaylo/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/vantaylo/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/vantaylo/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/vantaylo/Leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vantaylo/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
