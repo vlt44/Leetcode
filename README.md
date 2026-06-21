@@ -49,6 +49,7 @@
 | [0463-island-perimeter](https://github.com/vantaylo/Leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0498-diagonal-traverse](https://github.com/vantaylo/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0542-01-matrix](https://github.com/vantaylo/Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0575-distribute-candies](https://github.com/vantaylo/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/vantaylo/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0645-set-mismatch](https://github.com/vantaylo/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/vantaylo/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -355,6 +356,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/vantaylo/Leetcode/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0575-distribute-candies](https://github.com/vantaylo/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/vantaylo/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0752-open-the-lock](https://github.com/vantaylo/Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0819-most-common-word](https://github.com/vantaylo/Leetcode/tree/main/0819-most-common-word/) | Easy |
