@@ -64,6 +64,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/vantaylo/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/vantaylo/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/vantaylo/Leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/vantaylo/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/vantaylo/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vantaylo/Leetcode/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
@@ -469,6 +470,7 @@
 | [0371-sum-of-two-integers](https://github.com/vantaylo/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vantaylo/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/vantaylo/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1518-water-bottles](https://github.com/vantaylo/Leetcode/tree/main/1518-water-bottles/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/vantaylo/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vantaylo/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
