@@ -65,6 +65,7 @@
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vantaylo/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/vantaylo/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/vantaylo/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/vantaylo/Leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vantaylo/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/vantaylo/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -113,6 +114,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vantaylo/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vantaylo/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/vantaylo/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/vantaylo/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/vantaylo/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vantaylo/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1328-break-a-palindrome](https://github.com/vantaylo/Leetcode/tree/main/1328-break-a-palindrome/) | Medium |
@@ -373,6 +375,7 @@
 | [0929-unique-email-addresses](https://github.com/vantaylo/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/vantaylo/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/vantaylo/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/vantaylo/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/vantaylo/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/vantaylo/Leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
@@ -410,6 +413,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0819-most-common-word](https://github.com/vantaylo/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/vantaylo/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/vantaylo/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/vantaylo/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vantaylo/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/vantaylo/Leetcode/tree/main/1370-increasing-decreasing-string/) | Easy |
