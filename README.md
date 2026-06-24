@@ -488,6 +488,7 @@
 | [0371-sum-of-two-integers](https://github.com/vantaylo/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/vantaylo/Leetcode/tree/main/0507-perfect-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/vantaylo/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vantaylo/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vantaylo/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/vantaylo/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
