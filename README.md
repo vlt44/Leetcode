@@ -80,6 +80,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vantaylo/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vantaylo/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vantaylo/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vantaylo/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +383,7 @@
 | [1399-count-largest-group](https://github.com/vantaylo/Leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vantaylo/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/vantaylo/Leetcode/tree/main/1836-remove-duplicates-from-an-unsorted-linked-list/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vantaylo/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -617,4 +619,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vantaylo/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vantaylo/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 <!---LeetCode Topics End-->
