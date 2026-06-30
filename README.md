@@ -117,6 +117,7 @@
 | [0796-rotate-string](https://github.com/vantaylo/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/vantaylo/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0824-goat-latin](https://github.com/vantaylo/Leetcode/tree/main/0824-goat-latin/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/vantaylo/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0929-unique-email-addresses](https://github.com/vantaylo/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0942-di-string-match](https://github.com/vantaylo/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vantaylo/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -383,6 +384,7 @@
 | [0645-set-mismatch](https://github.com/vantaylo/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0752-open-the-lock](https://github.com/vantaylo/Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0819-most-common-word](https://github.com/vantaylo/Leetcode/tree/main/0819-most-common-word/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/vantaylo/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0888-fair-candy-swap](https://github.com/vantaylo/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0929-unique-email-addresses](https://github.com/vantaylo/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
@@ -425,6 +427,7 @@
 | [0169-majority-element](https://github.com/vantaylo/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0819-most-common-word](https://github.com/vantaylo/Leetcode/tree/main/0819-most-common-word/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/vantaylo/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/vantaylo/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vantaylo/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/vantaylo/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
