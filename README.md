@@ -114,6 +114,7 @@
 | [0657-robot-return-to-origin](https://github.com/vantaylo/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/vantaylo/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0752-open-the-lock](https://github.com/vantaylo/Leetcode/tree/main/0752-open-the-lock/) | Medium |
+| [0796-rotate-string](https://github.com/vantaylo/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/vantaylo/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0824-goat-latin](https://github.com/vantaylo/Leetcode/tree/main/0824-goat-latin/) | Easy |
 | [0929-unique-email-addresses](https://github.com/vantaylo/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
@@ -533,6 +534,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vantaylo/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vantaylo/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0796-rotate-string](https://github.com/vantaylo/Leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
