@@ -78,6 +78,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vantaylo/Leetcode/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vantaylo/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vantaylo/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1534-count-good-triplets](https://github.com/vantaylo/Leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/vantaylo/Leetcode/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vantaylo/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/vantaylo/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -633,5 +634,6 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1534-count-good-triplets](https://github.com/vantaylo/Leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vantaylo/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 <!---LeetCode Topics End-->
