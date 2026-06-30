@@ -80,6 +80,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vantaylo/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/vantaylo/Leetcode/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vantaylo/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/vantaylo/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vantaylo/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vantaylo/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vantaylo/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -127,6 +128,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/vantaylo/Leetcode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/vantaylo/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vantaylo/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/vantaylo/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vantaylo/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
