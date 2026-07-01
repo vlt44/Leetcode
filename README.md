@@ -97,6 +97,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vantaylo/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vantaylo/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/vantaylo/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/vantaylo/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/vantaylo/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0091-decode-ways](https://github.com/vantaylo/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0127-word-ladder](https://github.com/vantaylo/Leetcode/tree/main/0127-word-ladder/) | Hard |
@@ -480,6 +481,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/vantaylo/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/vantaylo/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/vantaylo/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/vantaylo/Leetcode/tree/main/0190-reverse-bits/) | Easy |
@@ -499,6 +501,7 @@
 | [0009-palindrome-number](https://github.com/vantaylo/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/vantaylo/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/vantaylo/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/vantaylo/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/vantaylo/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/vantaylo/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/vantaylo/Leetcode/tree/main/0258-add-digits/) | Easy |
@@ -601,6 +604,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/vantaylo/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/vantaylo/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0498-diagonal-traverse](https://github.com/vantaylo/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
