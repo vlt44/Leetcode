@@ -86,6 +86,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vantaylo/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vantaylo/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vantaylo/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vantaylo/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@
 | [0542-01-matrix](https://github.com/vantaylo/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/vantaylo/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vantaylo/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vantaylo/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +353,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1469-find-all-the-lonely-nodes](https://github.com/vantaylo/Leetcode/tree/main/1469-find-all-the-lonely-nodes/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/vantaylo/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vantaylo/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +372,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/vantaylo/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vantaylo/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/vantaylo/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vantaylo/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,6 +426,7 @@
 | [1046-last-stone-weight](https://github.com/vantaylo/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1086-high-five](https://github.com/vantaylo/Leetcode/tree/main/1086-high-five/) | Easy |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/vantaylo/Leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vantaylo/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -651,4 +656,8 @@
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/vantaylo/Leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vantaylo/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vantaylo/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
