@@ -560,6 +560,7 @@
 | [0002-add-two-numbers](https://github.com/vantaylo/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/vantaylo/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/vantaylo/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/vantaylo/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0143-reorder-list](https://github.com/vantaylo/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/vantaylo/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/vantaylo/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
