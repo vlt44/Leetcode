@@ -93,6 +93,7 @@
 | [0006-zigzag-conversion](https://github.com/vantaylo/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/vantaylo/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/vantaylo/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0012-integer-to-roman](https://github.com/vantaylo/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vantaylo/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/vantaylo/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vantaylo/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -376,6 +377,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/vantaylo/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vantaylo/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vantaylo/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/vantaylo/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
@@ -504,6 +506,7 @@
 | [0002-add-two-numbers](https://github.com/vantaylo/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/vantaylo/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/vantaylo/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/vantaylo/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vantaylo/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/vantaylo/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/vantaylo/Leetcode/tree/main/0067-add-binary/) | Easy |
