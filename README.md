@@ -298,6 +298,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1469-find-all-the-lonely-nodes](https://github.com/vantaylo/Leetcode/tree/main/1469-find-all-the-lonely-nodes/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/vantaylo/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vantaylo/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,6 +358,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vantaylo/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1469-find-all-the-lonely-nodes](https://github.com/vantaylo/Leetcode/tree/main/1469-find-all-the-lonely-nodes/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/vantaylo/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vantaylo/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vantaylo/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -365,6 +367,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/vantaylo/Leetcode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/vantaylo/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/vantaylo/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vantaylo/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -376,6 +379,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/vantaylo/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vantaylo/Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/vantaylo/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vantaylo/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vantaylo/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
