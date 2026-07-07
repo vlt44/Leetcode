@@ -543,6 +543,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/vantaylo/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vantaylo/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2235-add-two-integers](https://github.com/vantaylo/Leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vantaylo/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
