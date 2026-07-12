@@ -113,6 +113,7 @@
 | [0257-binary-tree-paths](https://github.com/vantaylo/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0269-alien-dictionary](https://github.com/vantaylo/Leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/vantaylo/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/vantaylo/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/vantaylo/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0520-detect-capital](https://github.com/vantaylo/Leetcode/tree/main/0520-detect-capital/) | Easy |
@@ -409,6 +410,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/vantaylo/Leetcode/tree/main/0314-binary-tree-vertical-order-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/vantaylo/Leetcode/tree/main/0359-logger-rate-limiter/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/vantaylo/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vantaylo/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0575-distribute-candies](https://github.com/vantaylo/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/vantaylo/Leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -458,6 +460,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/vantaylo/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vantaylo/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/vantaylo/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0819-most-common-word](https://github.com/vantaylo/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/vantaylo/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/vantaylo/Leetcode/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
@@ -658,6 +661,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vantaylo/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vantaylo/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
