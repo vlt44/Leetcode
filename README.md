@@ -38,6 +38,7 @@
 | [0163-missing-ranges](https://github.com/vantaylo/Leetcode/tree/main/0163-missing-ranges/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vantaylo/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/vantaylo/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/vantaylo/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0212-word-search-ii](https://github.com/vantaylo/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/vantaylo/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/vantaylo/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
@@ -491,6 +492,7 @@
 | [0143-reorder-list](https://github.com/vantaylo/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/vantaylo/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vantaylo/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/vantaylo/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/vantaylo/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/vantaylo/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/vantaylo/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -537,6 +539,7 @@
 | [0066-plus-one](https://github.com/vantaylo/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/vantaylo/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/vantaylo/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/vantaylo/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/vantaylo/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/vantaylo/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/vantaylo/Leetcode/tree/main/0268-missing-number/) | Easy |
